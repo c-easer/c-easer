@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[c-easer]
 ================================
 
 > I never expect this becomes popular.
